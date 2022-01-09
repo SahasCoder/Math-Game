@@ -1,0 +1,70 @@
+#topS {
+    background-image: url(https://wallpapercave.com/wp/8iAP1eI.jpg);
+    background-position: center;
+    background-size: cover;
+}
+
+body {
+    background-image: url(https://png.pngtree.com/thumb_back/fh260/background/20200604/pngtree-hand-account-style-mathematics-education-background-image_337863.jpg);
+    background-position: center;
+    background-size: cover;
+}
+
+.playerS {
+    background-image: url(https://media.istockphoto.com/vectors/navy-blue-gradient-geometric-background-material-design-overlap-layer-vector-id841457876?k=20&m=841457876&s=612x612&w=0&h=6_fOJ6brr3s48PYlzju6gCvBihaM0kYLDKl4MG68dtU=);
+    background-position: center;
+    background-size: cover;
+}
+
+.Istyle {
+    background-color: white;
+    border: 1px;
+    border-radius: 5px;
+    border-color: white;
+    border-style: solid;
+    color: white;
+    width: 1000;
+}
+
+#mainS {
+    padding: 10px;
+    float: none;
+    border-radius: 15px;
+}
+
+body
+{
+	background: #ce4a4a;
+}
+
+	.login_div1 , .login_div2
+	{
+		background: white;
+		padding: 10px;
+		float: none;
+		border-radius: 15px;
+	}
+
+
+#player1_name , #player2_name
+{
+	display: inline-block;
+	margin-left: 20px;
+}
+#word
+{
+	width: 60%;
+}
+#word_display
+{
+	letter-spacing: 5px;
+}
+#output
+{
+background: white;
+border-radius: 10px;
+border-top: 10px solid #AA4465;
+padding: 10px;
+float: none;
+text-align: left;
+}
